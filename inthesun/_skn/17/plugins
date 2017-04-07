@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8">
+<addons>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<addon
+  id="skin.water2"
+  version="3.5.0"
+  name="waterTV"
+  provider-name="Helly,EDIT by water">
+  <requires>
+    <import addon="xbmc.gui" version="5.12.0"/>
+  </requires>
+  <extension
+    point="xbmc.gui.skin"
+    debugging="false"
+    effectslowdown="1.0">
+    <res width="1280" height="720" aspect="16:9" default="true" folder="720p" />
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <summary lang="en_US">eXtended MOD of Confluence skin originally by Jezz_X and CCM by Mudislander.</summary>
+    <description lang="en">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <description lang="en_US">Xonfluence is a MOD of Confluence to enable a greater degree of user customisation to the default skin (based by Mudislander's CCM).</description>
+    <disclaimer lang="en">You break it - You get to keep the pieces</disclaimer>
+    <disclaimer lang="en_US">You break it - You get to keep the pieces</disclaimer>
+    <platform>all</platform>
+    <assets>
+    </assets>
+    <news></news>
+  </extension>
+</addon>
+
+
+</addons> 
